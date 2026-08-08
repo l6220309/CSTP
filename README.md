@@ -1,0 +1,1 @@
+The code for our papar "A novel motor imagery EEG decoding method based on multivariate common spatial temporal patterns classification" submitted to MTAP. The time-series classifiers can be found at: https://www.sktime.net/.
